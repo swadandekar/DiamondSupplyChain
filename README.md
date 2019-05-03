@@ -1,5 +1,5 @@
 # DiamondSupplyChain
-Architect a Blockchain Supply Chain Solution
+Architect a Blockchain based Supply Chain Solution
 
 Summary: This is an example of Diamond Supply chain which demonstrates various stages a diamond goes through till it reaches the stage where it can be sold.
 

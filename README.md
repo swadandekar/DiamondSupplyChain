@@ -10,6 +10,6 @@ On certification, diamond is auctioned and sold to the customer.
 
 Asset: Diamond
 
-Actors: Supplier, Jweller,inspector/Regulator, buyer
+Actors: Supplier, Jeweller, inspector/Regulator, buyer
 
-states: Mined, Sold,  Polished, Certified, auctioned, purchased
+States: Mined, Sold, Polished, Certified, Auctioned, Purchased
